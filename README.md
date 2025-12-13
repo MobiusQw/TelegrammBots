@@ -5,6 +5,7 @@
 ## [TestHazzbot](https://t.me/TestHazzbot)
 ## Or just use these usernames:
 ## @TestHazzbot @Firsdt_bot
+###since these bots are not yet connected to the server, please contact me before starting
 
 
 
